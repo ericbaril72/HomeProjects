@@ -1,11 +1,12 @@
 # Personnal Projects
 
 Lots of mini projects using ESP32, STM32MP135, Microchip SAMD/SAME
+Many have references in my [github's repos](https://github.com/ericbaril72?tab=repositories)
 
 
 # Firmware
 ## ESP32
-- Visual Studio / Platformio /  c & C++
+- Visual Studio / Platformio /  C & C++
 - Circuit Python / Python
 - ESPHome / yaml
 <div>
